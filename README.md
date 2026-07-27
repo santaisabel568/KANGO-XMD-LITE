@@ -1,7 +1,7 @@
 
 
-<p align="center">
-<img align="center" height="auto" src="https://i.imgur.com/1DkLGVk.jpeg">
+<p align="center">p
+<img align="center" height="auto" src="https://i.postimg.cc/4xrFDjGC/Screenshot-20260728-032831-Photos.png">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=K+A+N+G+O+X+M+D+▇)](https://git.io/typing-svg)
